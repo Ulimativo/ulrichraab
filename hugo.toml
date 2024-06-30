@@ -526,7 +526,7 @@ image = ""
 thumbnailUrl = ""
 # DoIt NEW | 0.4.1
 # alternate site name in Google search result
-alternateName = ["Hugo DoIt"]
+alternateName = ["Ulrich Raab"]
 
 # DoIt NEW | 0.2.0 Analytics config
 [params.analytics]

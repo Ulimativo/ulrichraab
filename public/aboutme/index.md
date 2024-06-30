@@ -1,12 +1,28 @@
 # 
 
 
+{{< image src="/images/ulrichraab.jpg" caption="Ulrich Raab (Photo: Andreas Lepsi)" src_s="/images/ulrichraab.jpg" src_l="/images/ulrichraab.jpg" height=500 width=500 >}}
+
 # Ulrich Raab – Marketing Professional & Media Enthusiast 🚀
 
 
+{{< admonition info "TL'DR" false >}}
+🌐 17 Jahre Berufserfahrung in einem globalen Unternehmen der Musikindustrie und aktuell in der Nahrungsmittelbranche in einem global tätigen Unternehmen mit 1,7 Mrd.-€ Umsatz. 
+
+🌐 Umfassende funktionale Expertise in der globalen Markenführung von 17 Marken, einem Produktportfolio von über 1.400 Artikeln, in der Kreation und Umsetzung von digitalen Marketing- und Geschäftsmodellen und der Gestaltung des globalen Employer Brandings.
+
+🌐 Erfolgreicher Ausbau des Consumer-Markengeschäfts durch Markenrepositionierung, strategischen Investments in Wachstumsmärkten und effektive Konsumentenkommunikation mit signifkanter Umsatz-, Marktanteils- und Rentabilitätssteigerung.
+
+🌐 Erfolgreicher Relaunch der Marke Rauch Eistee am deutschen Markt, damit Verbesserung der Hersteller-Marktposition von #11 auf #4, sowie Erreichung der Nummer-1 Position in der Kategorie Dose in Jahr 1. 
+
+🌐 Umsetzungsstarker Manager mit unternehmerischem Gestaltungswillen, Hands-On Mentalität, Innovations- und Konzeptionsstärke, mit einem guten Gespür für Machbarkeiten und Märkte.
+
+🌐 „Ambition – Commitment – Consistency“ als Leitlinie meiner agilen Führung, basierend auf Transparenz, Vertrauen und wertschätzenden Umgang.
+{{< /admonition >}}
+
 Ich bin ein erfahrener Experte im Bereich Marketing und Medien mit Fokus auf Digitalisierung, strategischem Marketing und Markenführung. Meine umfangreiche Führungserfahrung erstreckt sich über mehr als 10 Jahre.
 
-Derzeit nutze ich meine Fachkenntnisse, um Österreichs führenden Hersteller von Fruchtsäften, RAUCH, zu unterstützen. In meiner Position als Leiter für internationales Marketing bin ich verantwortlich für die globale Leitung sämtlicher RAUCH Marken in über 100 Märkten weltweit. Meine Zuständigkeiten umfassen ebenso Digital Marketing, Sponsoring, Media Planning und Trade Marketing auf internationaler Ebene. Ich leite und entwickle aktiv ein internationales Team von 30 talentierten Personen.
+Derzeit nutze ich meine Fachkenntnisse, um Österreichs führenden Hersteller von Fruchtsäften, [RAUCH](https://www.rauch.cc), zu unterstützen. In meiner Position als **Leiter des internationalen Marketings** bin ich verantwortlich für die globale Leitung sämtlicher RAUCH Marken in über 100 Märkten weltweit. Meine Zuständigkeiten umfassen ebenso **Digital Marketing, Sponsoring, Media Planning und Trade Marketing auf internationaler Ebene**. Ich leite und entwickle aktiv ein **internationales Team** von **30 talentierten Personen**.
 
 Meine Expertise umfasst auch die Vermarktung von Musik und den Aufbau von Künstlermarken. In meiner früheren Rolle als Marketingleiter für den gesamten österreichischen Markt bei Universal Music, dem weltweit größten Anbieter von Musik, habe ich gemeinsam mit meinem Team die optimale Positionierung von nationalen und internationalen Künstlern im österreichischen Markt gewährleistet. Während dieser Zeit habe ich ein Team von 12 Personen erfolgreich geleitet und weiterentwickelt.
 
