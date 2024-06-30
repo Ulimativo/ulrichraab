@@ -10,6 +10,8 @@
     <pubDate>Sun, 30 Jun 2024 12:34:35 &#43;0200</pubDate><author>
         <name>Ulrich Raab</name>
     </author><guid>http://localhost:1313/first_post/</guid>
-    <description><![CDATA[Das ist meine persönliche Website, hier findest du alle Informationen rund um meine Person und die Themen, die mich bewegen.]]></description>
+    <description><![CDATA[<div class="featured-image">
+                <img src="images/UR_Logo.png" referrerpolicy="no-referrer">
+            </div><p>Das ist meine persönliche Website, hier findest du alle Informationen rund um meine Person und die Themen, die mich bewegen.</p>]]></description>
 </item></channel>
 </rss>
