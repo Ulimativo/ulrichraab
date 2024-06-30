@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Ulrich Raab | Media Enthusiast &amp; Marketing Executive</title>
+        <link>http://localhost:1313/</link>
+        <description>Ulrich Raab | Media Enthusiast &amp; Marketing Executive</description>
+        <generator>Hugo -- gohugo.io</generator><language>de-at</language><lastBuildDate>Sun, 30 Jun 2024 12:34:35 &#43;0200</lastBuildDate>
+            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Willkommen auf meiner Seite!</title>
+    <link>http://localhost:1313/posts/first_post/</link>
+    <pubDate>Sun, 30 Jun 2024 12:34:35 &#43;0200</pubDate><author>
+        <name>Autor</name>
+    </author><guid>http://localhost:1313/posts/first_post/</guid>
+    <description><![CDATA[Das ist meine persönliche Website, hier findest du alle Informationen rund um meine Person und die Themen, die mich bewegen.]]></description>
+</item></channel>
+</rss>
