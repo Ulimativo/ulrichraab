@@ -1,0 +1,16 @@
+// ==============================
+// Override Variables
+// 覆盖变量
+// ==============================
+// Color of the background
+$global-background-color: #fff !default;
+$global-background-color-dark: #292a2d !default;
+$global-background-color-black: #000000 !default;
+// Color of the text
+$global-font-color: #394867 !default;
+$global-font-color-dark: #a9a9b3 !default;
+$global-font-color-black: #d9d9d9 !default;
+
+@import url("https://fonts.googleapis.com/css?family=Fira+Mono:400,700&display=swap&subset=latin-ext");
+$code-font-family: Fira Mono, Source Code Pro, Menlo, Consolas, Monaco,
+  monospace;
